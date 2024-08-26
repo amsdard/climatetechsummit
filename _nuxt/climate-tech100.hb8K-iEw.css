@@ -1,0 +1,1 @@
+.slide{animation:scrollLeft 30s linear infinite;position:absolute}@keyframes scrollLeft{to{left:-150px}}
