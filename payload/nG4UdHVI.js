@@ -1,1 +1,0 @@
-import{u as s}from"./B-ZvL4m0.js";import{M as u}from"./DjvP_8UI.js";function M(e,a){const{title:r,titleTemplate:o,...m}=e;return s({title:r,titleTemplate:o,_flatMeta:m},{...a,transform(t){const n=u({...t._flatMeta});return delete t._flatMeta,{...t,meta:n}}})}export{M as u};
